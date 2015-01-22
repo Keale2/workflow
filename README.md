@@ -33,7 +33,7 @@ Make sure the following software is installed on your computer. An easy way to c
 ## Using Fetch with Sublime Text 3 (Should also work with ST 2)
 Fetch is an awesome Sublime Text plugin that is best explained via this [NetTuts article](http://code.tutsplus.com/articles/introducing-nettuts-fetch--net-23490).
 
-Once you've installed the Fetch plugin via package manager (<code>ctrl + shift + p</code> on win or <code>ctrl + shift + p</code> on mac) you need to edit the "Fetch: Manage" file.
+Once you've installed the Fetch plugin via package manager (<code>ctrl + shift + p</code> on win or <code>cmd + shift + p</code> on mac) you need to edit the "Fetch: Manage" file.
 - Open up package manager, type "Fetch", select "Fetch:Manage"
 - This will open up the "Fetch.sublime-settings" file for editing
 - add the following to the "packages" section
@@ -43,7 +43,7 @@ Once you've installed the Fetch plugin via package manager (<code>ctrl + shift +
 
 Once you've added the package to your Fetch.sublime-settings file you can access it using the following steps:
 
-1.  open package manager (<code>ctrl + shift + p</code> on win or <code>ctrl + shift + p</code> on mac)
+1.  open package manager (<code>ctrl + shift + p</code> on win or <code>cmd + shift + p</code> on mac)
 2.  type "fetch"
 3.  choose "packages"
 4.  select "workflow"
